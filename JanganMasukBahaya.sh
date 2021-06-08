@@ -306,7 +306,7 @@ if [ $pil = 25 ] || [ $pil = 25 ]
 then
 git clone https://github.com/MR-L4M3R/Tools
 cd Tools
-sh tools.sh
+sh Bewandek.sh
 fi
 #batas gan
 if [ $pil = 00 ] || [ $pil = 00 ]
