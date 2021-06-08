@@ -304,9 +304,9 @@ fi
 #batas gan
 if [ $pil = 25 ] || [ $pil = 25 ]
 then
-git clone https://github.com/Ramzi0407/ToolsRamzi
-cd ToolsRamzi
-sh Hyper.sh
+git clone https://github.com/MR-L4M3R/Tools
+cd Tools
+sh tools.sh
 fi
 #batas gan
 if [ $pil = 00 ] || [ $pil = 00 ]
