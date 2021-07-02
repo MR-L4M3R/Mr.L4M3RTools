@@ -220,7 +220,7 @@ fi
 #batas gan
 if [ $pil = 20 ] || [ $pil = 20 ]
 then
-git clone https://github.com/Mr-xDODOL/Tebas
+git clone https://github.com/MR-L4M3R/Tebas
 cd Tebas
 sh Tebas.sh
 fi
